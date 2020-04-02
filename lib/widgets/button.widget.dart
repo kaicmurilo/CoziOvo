@@ -17,8 +17,8 @@ class Button extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-        height: 45,
-        width: 110,
+        height: 40,
+        width: 90,
         decoration: BoxDecoration(
           color: selected ? Theme.of(context).primaryColor : Colors.transparent,
           borderRadius: BorderRadius.circular(30),

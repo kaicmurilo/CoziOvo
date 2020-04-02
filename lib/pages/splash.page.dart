@@ -46,7 +46,7 @@ class SplashPage extends StatelessWidget {
         Text(
           "CoziDovos",
           style: TextStyle(
-            fontSize: 34,
+            fontSize: 65,
             fontWeight: FontWeight.bold,
           ),
           textAlign: TextAlign.center,
